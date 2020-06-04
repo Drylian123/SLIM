@@ -20,7 +20,7 @@ Structural Landmarking and Interaction Modelling: on Resolution Dilemmas in Grap
     sh slim.sh
 
 
-![](https://github.com/Avigdor1231/SLIM/blob/master/SLIM-MUTAG/lib/test.jpg)
+![](https://github.com/Avigdor1231/SLIM/blob/master/SLIM-MUTAG/test.jpg)
 Organization of the code
 ------
 * util.py (for data loading and basic data organization operators )
