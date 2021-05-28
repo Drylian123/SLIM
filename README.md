@@ -1,5 +1,5 @@
 # SLIM
-Structural Landmarking and Interaction Modelling: on Resolution Dilemmas in Graph Classification
+Structural Landmarking and Interaction Modelling: A “SLIM” Network for Graph Classification
 
 ### step1. Run or put the decompressed data folder in the data set project which you want，
 
