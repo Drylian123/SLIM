@@ -1,5 +1,10 @@
 # SLIM
 
+Environment
+------
+ - python=3.6.7
+ - scikit-learn=0.20.0
+
 
 ### step1. Run or put the decompressed data folder in the data set project which you want，
 
@@ -31,5 +36,8 @@ Organization of the code
 * predict.py (for fc layer and prediction results )
 * slim.sh (for setting parameters and starting the entire project )
 * n_LA_xxx.pkl(for saving the data of the nth order neighbor) 
+
+
+
 
 
