@@ -11,12 +11,7 @@ Environment
 #### eg.
     unzip -d /SLIM-MUTAG data.zip
 
-### step2. Then unzip the n_LA_NCI1.pkl file to the current folder. If not, skip to the next step. 
-
-#### eg.in NCI1
-
-    unzip 1order_LA_NCI1.zip
-### step3. Then unzip the adj.pkl file to the current folder. If not, skip to the next step. 
+### step2. Then unzip the adj.pkl file to the current folder. If not, skip to the next step. 
 
 #### eg.in Mutag
 
@@ -35,7 +30,7 @@ Organization of the code
 * Clustering.py (for clustering using DEC )
 * predict.py (for fc layer and prediction results )
 * slim.sh (for setting parameters and starting the entire project )
-* n_LA_xxx.pkl(for saving the data of the nth order neighbor) 
+*  
 
 
 
