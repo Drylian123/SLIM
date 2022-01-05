@@ -30,7 +30,6 @@ Organization of the code
 * Clustering.py (for clustering using DEC )
 * predict.py (for fc layer and prediction results )
 * slim.sh (for setting parameters and starting the entire project )
-*  
 
 
 
